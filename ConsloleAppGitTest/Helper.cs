@@ -8,11 +8,11 @@ namespace ConsloleAppGitTest
 {
     public class Helper
     {
-        public string Name { get; set; }
+        public const string Name = "Roberson Luo";
 
-        public string GetNames()
+        public string ShowName()
         {
-            return this.Name;
+            return Name;
         }
     }
 }

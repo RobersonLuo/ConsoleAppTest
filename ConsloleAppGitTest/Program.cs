@@ -10,7 +10,12 @@ namespace ConsloleAppGitTest
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello GitHub...");
+            Console.Write("Welcome to the word of GitHub...");
+
+            Helper help = new Helper();
+            string name = help.ShowName();
+            Console.Write("Hello " + name);
+
             Console.ReadKey();
         }
     }
