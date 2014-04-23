@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConsloleAppGitTest
 {
-    class Program
+    public class Helper
     {
-        static void Main(string[] args)
+        public string Name { get; set; }
+
+        public string GetNames()
         {
-            Console.Write("Hello GitHub...");
-            Console.ReadKey();
+            return this.Name;
         }
     }
 }
