@@ -7,8 +7,8 @@
     <ProjectGuid>{6CBF953C-8DE7-4DCF-9D38-0ABC06CCCC6C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsloleAppGitTest</RootNamespace>
-    <AssemblyName>ConsloleAppGitTest</AssemblyName>
+    <RootNamespace>ConsloleAppGitDemo</RootNamespace>
+    <AssemblyName>ConsloleAppGitDemo</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
